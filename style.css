@@ -1,0 +1,60 @@
+html {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    font-family: "DM Serif Text", serif;
+    margin: 25px auto;
+    color: white;
+
+}
+
+.logo {
+    display: flex;
+    font-family: "DM Serif Text", serif;
+    justify-content: center;
+    position: fixed;
+    text-align: center;
+    align-items: center;
+    margin-top: 0.2vh;
+    font-size: 150%;
+    margin-left: 70vh;
+    padding-left: 20vh;
+    padding-right: 20vh;
+}
+
+.logo-part1 {
+    background-color: rgb(25, 25, 153);
+    border-top-left-radius: 2vh;
+    border-bottom-left-radius: 1vh;
+    height: auto;
+    padding-left: 5vh;
+    padding-right: 2vh;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+
+.logo-part2 {
+    color: rgb(25, 25, 153);
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-left: 2vh;
+    padding-right: 5vh;
+    background-color: rgb(238, 250, 255);
+    border-top-right-radius: 1vh;
+    border-bottom-right-radius: 2vh;
+}
+
+.news-title {
+    background-color: rgb(25, 25, 153);
+    width: 90vh auto;
+    height: auto;
+    padding: 2vh;
+    border-top-left-radius: 2vh;
+    border-bottom-right-radius: 2vh;
+}
+
