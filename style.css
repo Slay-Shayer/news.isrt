@@ -69,7 +69,7 @@ p {
 }
 
 
-.ad {
+.ad1 {
     height: 250px;
     width: 300px;
     background-image: url('oil_ad.png');
@@ -77,8 +77,21 @@ p {
 
 }
 
-.ad:hover {
+.ad1:hover {
     background-image: url('oil-ad-hover.png');
     filter: blur(3px);
     -webkit-filter: blur(3px);
+}
+
+
+.ad2 {
+    height: 250px;
+    width: 300px;
+    background-image: url('bootlick.png');
+    background-size: cover;
+
+}
+
+.ad2:hover {
+    background-image: url('bootlick-hover.png');
 }
