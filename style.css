@@ -13,12 +13,10 @@ h1 {
     display: flex;
     font-family: "DM Serif Text", serif;
     justify-content: center;
-    position: fixed;
     text-align: center;
     align-items: center;
     margin-top: 0.2vh;
     font-size: 150%;
-    margin-left: 60vh;
     padding-left: 20vh;
     padding-right: 20vh;
 }
